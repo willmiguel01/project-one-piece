@@ -39,10 +39,10 @@
     }
 }
 
-@media (max-width: 425px) {
+@media (max-width: 720px) {
 
     main .personagem .imagem {
-        height: auto;
+        height: 100vh;
     }
 
     .conteudo .Logo {
@@ -52,7 +52,7 @@
     }
 
     .conteudo {
-        top: -30%;
+        top: 20%;
     }
 
     .conteudo .nome_personagem {
@@ -62,7 +62,7 @@
 
     .botoes {
         padding: 20px;
-        top: -20%;
+        top: -85%;
     }
 
     .botoes .botao img {
@@ -71,3 +71,4 @@
 
 
 }
+
