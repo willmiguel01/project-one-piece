@@ -12,7 +12,6 @@
         height: 85%;
         position: absolute;
         left: -85%;
-
     }
 
     .conteudo {
@@ -66,7 +65,7 @@
 
     .botoes {
         padding: 20px;
-        top: -90%;
+        top: -85%;
     }
 
     .botoes .botao img {
