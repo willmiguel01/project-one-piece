@@ -1,14 +1,14 @@
 @media (max-width: 769px) {
     main::after {
         background: linear-gradient(0deg, #000 20%, rgba(0, 0, 0, 0.00) 65%) no-repeat;
-        width: 100vw;
+        width: 100%;
     }
 
     main .personagem .imagem {
         height:100%;
        width: auto;
         position: absolute;
-        left: -175%;
+        left: -135%;
         top: -75px;
 
     
