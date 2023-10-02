@@ -46,8 +46,9 @@
     .botoes {
         flex-direction: row;
         align-items: flex-end;
+        
         width: 100%;
-        padding: 50px;
+padding: 30px;
 
     }
 
